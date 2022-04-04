@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    height: 100%;
+    margin: 0%;
+    height: 0%;
+}
+
+#heading{
+    text-align: center;
+}
+
+#left-div{
+    flex: 1;
+    height: 100%;
+    background: wheat;
+}
+
+#right-div{
+    flex: 1;
+    height: 100%;
+    background: darkgray;
+}
+
+.text-box{
+    width: 80%;
+    height: 500%;
+}
+
+.todoContainer{
+    background-color: rgb(241, 209, 149);
+    display: flex;
+    justify-content: space-between;
+}

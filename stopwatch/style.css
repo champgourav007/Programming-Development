@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+
+.timer-section, .button-section{
+    text-align: center;
+    color: white;
+    
+}
